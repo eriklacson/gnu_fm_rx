@@ -1,3 +1,3 @@
 #GNU FM RX
 
-An RTL-SDR receiver built in GNU Radio 
+Code for blog article on building an FM reciever using GNU Radio and an RTL-SDR
